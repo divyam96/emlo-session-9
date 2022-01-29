@@ -1,0 +1,9 @@
+torch
+torchvision
+pytorch-lightning==0.10.0
+tqdm
+argparse
+pytablewriter
+seaborn
+cffi
+sklearn
